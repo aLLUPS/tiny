@@ -1,2 +1,2 @@
 # tiny
-A sample NPM module
+A sample npm module
